@@ -1,0 +1,11 @@
+C:\Users\todd\Desktop\c#\数组\bin\Debug\netcoreapp2.1\数组.deps.json
+C:\Users\todd\Desktop\c#\数组\bin\Debug\netcoreapp2.1\数组.runtimeconfig.json
+C:\Users\todd\Desktop\c#\数组\bin\Debug\netcoreapp2.1\数组.runtimeconfig.dev.json
+C:\Users\todd\Desktop\c#\数组\bin\Debug\netcoreapp2.1\数组.dll
+C:\Users\todd\Desktop\c#\数组\bin\Debug\netcoreapp2.1\数组.pdb
+C:\Users\todd\Desktop\c#\数组\obj\Debug\netcoreapp2.1\数组.csprojAssemblyReference.cache
+C:\Users\todd\Desktop\c#\数组\obj\Debug\netcoreapp2.1\数组.csproj.CoreCompileInputs.cache
+C:\Users\todd\Desktop\c#\数组\obj\Debug\netcoreapp2.1\数组.AssemblyInfoInputs.cache
+C:\Users\todd\Desktop\c#\数组\obj\Debug\netcoreapp2.1\数组.AssemblyInfo.cs
+C:\Users\todd\Desktop\c#\数组\obj\Debug\netcoreapp2.1\数组.dll
+C:\Users\todd\Desktop\c#\数组\obj\Debug\netcoreapp2.1\数组.pdb
