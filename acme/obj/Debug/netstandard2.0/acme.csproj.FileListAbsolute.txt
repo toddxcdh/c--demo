@@ -1,0 +1,9 @@
+C:\Users\todd\Desktop\c#\acme\bin\Debug\netstandard2.0\acme.deps.json
+C:\Users\todd\Desktop\c#\acme\bin\Debug\netstandard2.0\acme.dll
+C:\Users\todd\Desktop\c#\acme\bin\Debug\netstandard2.0\acme.pdb
+C:\Users\todd\Desktop\c#\acme\obj\Debug\netstandard2.0\acme.csprojAssemblyReference.cache
+C:\Users\todd\Desktop\c#\acme\obj\Debug\netstandard2.0\acme.csproj.CoreCompileInputs.cache
+C:\Users\todd\Desktop\c#\acme\obj\Debug\netstandard2.0\acme.AssemblyInfoInputs.cache
+C:\Users\todd\Desktop\c#\acme\obj\Debug\netstandard2.0\acme.AssemblyInfo.cs
+C:\Users\todd\Desktop\c#\acme\obj\Debug\netstandard2.0\acme.dll
+C:\Users\todd\Desktop\c#\acme\obj\Debug\netstandard2.0\acme.pdb

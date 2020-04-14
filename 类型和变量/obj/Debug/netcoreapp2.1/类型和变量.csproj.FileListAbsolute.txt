@@ -1,0 +1,11 @@
+C:\Users\todd\Desktop\c#\类型和变量\bin\Debug\netcoreapp2.1\类型和变量.deps.json
+C:\Users\todd\Desktop\c#\类型和变量\bin\Debug\netcoreapp2.1\类型和变量.runtimeconfig.json
+C:\Users\todd\Desktop\c#\类型和变量\bin\Debug\netcoreapp2.1\类型和变量.runtimeconfig.dev.json
+C:\Users\todd\Desktop\c#\类型和变量\bin\Debug\netcoreapp2.1\类型和变量.dll
+C:\Users\todd\Desktop\c#\类型和变量\bin\Debug\netcoreapp2.1\类型和变量.pdb
+C:\Users\todd\Desktop\c#\类型和变量\obj\Debug\netcoreapp2.1\类型和变量.csprojAssemblyReference.cache
+C:\Users\todd\Desktop\c#\类型和变量\obj\Debug\netcoreapp2.1\类型和变量.csproj.CoreCompileInputs.cache
+C:\Users\todd\Desktop\c#\类型和变量\obj\Debug\netcoreapp2.1\类型和变量.AssemblyInfoInputs.cache
+C:\Users\todd\Desktop\c#\类型和变量\obj\Debug\netcoreapp2.1\类型和变量.AssemblyInfo.cs
+C:\Users\todd\Desktop\c#\类型和变量\obj\Debug\netcoreapp2.1\类型和变量.dll
+C:\Users\todd\Desktop\c#\类型和变量\obj\Debug\netcoreapp2.1\类型和变量.pdb

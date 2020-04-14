@@ -1,0 +1,11 @@
+C:\Users\todd\Desktop\c#\语句\obj\Debug\netcoreapp2.1\语句.csprojAssemblyReference.cache
+C:\Users\todd\Desktop\c#\语句\obj\Debug\netcoreapp2.1\语句.csproj.CoreCompileInputs.cache
+C:\Users\todd\Desktop\c#\语句\obj\Debug\netcoreapp2.1\语句.AssemblyInfoInputs.cache
+C:\Users\todd\Desktop\c#\语句\obj\Debug\netcoreapp2.1\语句.AssemblyInfo.cs
+C:\Users\todd\Desktop\c#\语句\bin\Debug\netcoreapp2.1\语句.deps.json
+C:\Users\todd\Desktop\c#\语句\bin\Debug\netcoreapp2.1\语句.runtimeconfig.json
+C:\Users\todd\Desktop\c#\语句\bin\Debug\netcoreapp2.1\语句.runtimeconfig.dev.json
+C:\Users\todd\Desktop\c#\语句\bin\Debug\netcoreapp2.1\语句.dll
+C:\Users\todd\Desktop\c#\语句\bin\Debug\netcoreapp2.1\语句.pdb
+C:\Users\todd\Desktop\c#\语句\obj\Debug\netcoreapp2.1\语句.dll
+C:\Users\todd\Desktop\c#\语句\obj\Debug\netcoreapp2.1\语句.pdb
