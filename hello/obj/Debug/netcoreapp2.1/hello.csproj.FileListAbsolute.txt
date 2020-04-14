@@ -1,0 +1,11 @@
+C:\Users\todd\Desktop\c#\hello\bin\Debug\netcoreapp2.1\hello.deps.json
+C:\Users\todd\Desktop\c#\hello\bin\Debug\netcoreapp2.1\hello.runtimeconfig.json
+C:\Users\todd\Desktop\c#\hello\bin\Debug\netcoreapp2.1\hello.runtimeconfig.dev.json
+C:\Users\todd\Desktop\c#\hello\bin\Debug\netcoreapp2.1\hello.dll
+C:\Users\todd\Desktop\c#\hello\bin\Debug\netcoreapp2.1\hello.pdb
+C:\Users\todd\Desktop\c#\hello\obj\Debug\netcoreapp2.1\hello.csprojAssemblyReference.cache
+C:\Users\todd\Desktop\c#\hello\obj\Debug\netcoreapp2.1\hello.csproj.CoreCompileInputs.cache
+C:\Users\todd\Desktop\c#\hello\obj\Debug\netcoreapp2.1\hello.AssemblyInfoInputs.cache
+C:\Users\todd\Desktop\c#\hello\obj\Debug\netcoreapp2.1\hello.AssemblyInfo.cs
+C:\Users\todd\Desktop\c#\hello\obj\Debug\netcoreapp2.1\hello.dll
+C:\Users\todd\Desktop\c#\hello\obj\Debug\netcoreapp2.1\hello.pdb
